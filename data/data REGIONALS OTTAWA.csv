@@ -1,94 +1,94 @@
-name,number played,best placement,avg placement,date
-"Raffine, Scheming Seer",12,1,2.6666666666666665,2023-03-25
-"Raffine's Tower",1,1,1.0,2023-03-25
-"Caves of Koilos",12,1,2.6666666666666665,2023-03-25
-"Otawara, Soaring City",10,1,2.9,2023-03-25
-"Eiganjo, Seat of the Empire",12,1,3.4166666666666665,2023-03-25
-"Plaza of Heroes",12,1,2.6666666666666665,2023-03-25
-"Go for the Throat",13,1,4.3076923076923075,2023-03-25
-"Dennick, Pious Apprentice",12,1,2.6666666666666665,2023-03-25
-"Skrelv, Defector Mite",16,1,3.5,2023-03-25
-"Thalia, Guardian of Thraben",12,1,2.6666666666666665,2023-03-25
-"Sheoldred, the Apocalypse",15,1,3.7333333333333334,2023-03-25
-"Adeline, Resplendent Cathar",9,1,2.5555555555555554,2023-03-25
-"Ao, the Dawn Sky",3,1,2.3333333333333335,2023-03-25
-"Razorlash Transmogrant",6,1,4.0,2023-03-25
-"Ludevic, Necrogenius",1,1,1.0,2023-03-25
-"Plains",34,1,4.382352941176471,2023-03-25
-"Underground River",3,1,3.0,2023-03-25
-"Seachrome Coast",13,1,3.0,2023-03-25
-"Shattered Sanctum",8,1,2.875,2023-03-25
-"Takenuma, Abandoned Mire",5,1,3.2,2023-03-25
-"Darkslick Shores",11,1,2.8181818181818183,2023-03-25
-"Ertai Resurrected",2,1,2.5,2023-03-25
-"Loran of the Third Path",5,1,3.8,2023-03-25
-"Ambitious Farmhand",4,2,2.0,2023-03-25
-"Mondrak, Glory Dominus",2,2,2.0,2023-03-25
-"Reckoner Bankbuster",15,2,5.333333333333333,2023-03-25
-"The Restoration of Eiganjo",6,2,3.6666666666666665,2023-03-25
-"Lay Down Arms",8,2,4.5,2023-03-25
-"Ossification",4,2,2.0,2023-03-25
-"The Wandering Emperor",11,2,4.636363636363637,2023-03-25
-"Elspeth Resplendent",2,2,2.0,2023-03-25
-"Farewell",6,2,4.666666666666667,2023-03-25
-"Roadside Reliquary",4,2,2.0,2023-03-25
-"Mirrex",6,2,4.666666666666667,2023-03-25
-"The Eternal Wanderer",4,2,4.5,2023-03-25
-"Wedding Announcement",8,2,4.5,2023-03-25
-"Kaito Shizuki",1,3,3.0,2023-03-25
-"Toluz, Clever Conductor",1,3,3.0,2023-03-25
-"Gix, Yawgmoth Praetor",2,4,4.0,2023-03-25
-"Island",4,4,4.75,2023-03-25
-"Shipwreck Marsh",1,4,4.0,2023-03-25
-"Suspicious Stowaway",3,4,4.0,2023-03-25
-"Unctus, Grand Metatect",1,4,4.0,2023-03-25
-"Abrade",5,5,6.2,2023-03-25
-"Adarkar Wastes",1,5,5.0,2023-03-25
-"Battlefield Forge",1,5,5.0,2023-03-25
-"Deserted Beach",4,5,5.0,2023-03-25
-"Disruption Protocol",4,5,5.0,2023-03-25
-"Fable of the Mirror-Breaker",8,5,6.5,2023-03-25
-"Fires of Victory",2,5,5.0,2023-03-25
-"Flame-Blessed Bolt",2,5,5.0,2023-03-25
-"Memory Deluge",3,5,5.0,2023-03-25
-"Mountain",3,5,7.0,2023-03-25
-"Saheeli, Filigree Master",1,5,5.0,2023-03-25
-"Sanctuary Warden",2,5,5.0,2023-03-25
-"Secrets of the Key",1,5,5.0,2023-03-25
-"Shivan Reef",2,5,5.0,2023-03-25
-"Spell Pierce",2,5,5.0,2023-03-25
-"Stormcarved Coast",4,5,5.0,2023-03-25
-"Sundown Pass",4,5,5.0,2023-03-25
-"Xander's Lounge",2,5,5.0,2023-03-25
-"Brushland",4,6,6.0,2023-03-25
-"Razorverge Thicket",4,6,6.0,2023-03-25
-"Overgrown Farmland",3,6,6.0,2023-03-25
-"Tyvar's Stand",4,6,6.0,2023-03-25
-"Annex Sentry",3,6,6.0,2023-03-25
-"Soul Partition",3,6,6.0,2023-03-25
-"Crawling Chorus",4,6,6.0,2023-03-25
-"Jawbone Duelist",4,6,6.0,2023-03-25
-"Skrelv's Hive",4,6,6.0,2023-03-25
-"Venerated Rotpriest",4,6,6.0,2023-03-25
-"Slaughter Singer",4,6,6.0,2023-03-25
-"The Seedcore",4,6,6.0,2023-03-25
-"Bloated Contaminator",4,6,6.0,2023-03-25
-"Boseiju, Who Endures",1,6,6.0,2023-03-25
-"Field of Ruin",4,7,7.0,2023-03-25
-"Demolition Field",4,7,7.0,2023-03-25
-"March of Otherworldly Light",2,7,7.0,2023-03-25
-"Intrepid Adversary",4,7,7.0,2023-03-25
-"Spirited Companion",2,7,7.0,2023-03-25
-"Destroy Evil",1,7,7.0,2023-03-25
-"Serra Paragon",3,7,7.0,2023-03-25
-"Blackcleave Cliffs",4,8,8.0,2023-03-25
-"Bloodtithe Harvester",4,8,8.0,2023-03-25
-"Cut Down",4,8,8.0,2023-03-25
-"Duress",1,8,8.0,2023-03-25
-"Gix's Command",1,8,8.0,2023-03-25
-"Graveyard Trespasser",4,8,8.0,2023-03-25
-"Haunted Ridge",4,8,8.0,2023-03-25
-"Invoke Despair",3,8,8.0,2023-03-25
-"Sokenzan, Crucible of Defiance",1,8,8.0,2023-03-25
-"Sulfurous Springs",4,8,8.0,2023-03-25
-"Swamp",9,8,8.0,2023-03-25
+name,number played,best placement,avg placement,date,size
+"Raffine, Scheming Seer",12,1,2.6666666666666665,2023-03-25,266
+"Raffine's Tower",1,1,1.0,2023-03-25,266
+"Caves of Koilos",12,1,2.6666666666666665,2023-03-25,266
+"Otawara, Soaring City",10,1,2.9,2023-03-25,266
+"Eiganjo, Seat of the Empire",12,1,3.4166666666666665,2023-03-25,266
+"Plaza of Heroes",12,1,2.6666666666666665,2023-03-25,266
+"Go for the Throat",13,1,4.3076923076923075,2023-03-25,266
+"Dennick, Pious Apprentice",12,1,2.6666666666666665,2023-03-25,266
+"Skrelv, Defector Mite",16,1,3.5,2023-03-25,266
+"Thalia, Guardian of Thraben",12,1,2.6666666666666665,2023-03-25,266
+"Sheoldred, the Apocalypse",15,1,3.7333333333333334,2023-03-25,266
+"Adeline, Resplendent Cathar",9,1,2.5555555555555554,2023-03-25,266
+"Ao, the Dawn Sky",3,1,2.3333333333333335,2023-03-25,266
+"Razorlash Transmogrant",6,1,4.0,2023-03-25,266
+"Ludevic, Necrogenius",1,1,1.0,2023-03-25,266
+"Plains",34,1,4.382352941176471,2023-03-25,266
+"Underground River",3,1,3.0,2023-03-25,266
+"Seachrome Coast",13,1,3.0,2023-03-25,266
+"Shattered Sanctum",8,1,2.875,2023-03-25,266
+"Takenuma, Abandoned Mire",5,1,3.2,2023-03-25,266
+"Darkslick Shores",11,1,2.8181818181818183,2023-03-25,266
+"Ertai Resurrected",2,1,2.5,2023-03-25,266
+"Loran of the Third Path",5,1,3.8,2023-03-25,266
+"Ambitious Farmhand",4,2,2.0,2023-03-25,266
+"Mondrak, Glory Dominus",2,2,2.0,2023-03-25,266
+"Reckoner Bankbuster",15,2,5.333333333333333,2023-03-25,266
+"The Restoration of Eiganjo",6,2,3.6666666666666665,2023-03-25,266
+"Lay Down Arms",8,2,4.5,2023-03-25,266
+"Ossification",4,2,2.0,2023-03-25,266
+"The Wandering Emperor",11,2,4.636363636363637,2023-03-25,266
+"Elspeth Resplendent",2,2,2.0,2023-03-25,266
+"Farewell",6,2,4.666666666666667,2023-03-25,266
+"Roadside Reliquary",4,2,2.0,2023-03-25,266
+"Mirrex",6,2,4.666666666666667,2023-03-25,266
+"The Eternal Wanderer",4,2,4.5,2023-03-25,266
+"Wedding Announcement",8,2,4.5,2023-03-25,266
+"Kaito Shizuki",1,3,3.0,2023-03-25,266
+"Toluz, Clever Conductor",1,3,3.0,2023-03-25,266
+"Gix, Yawgmoth Praetor",2,4,4.0,2023-03-25,266
+"Island",4,4,4.75,2023-03-25,266
+"Shipwreck Marsh",1,4,4.0,2023-03-25,266
+"Suspicious Stowaway",3,4,4.0,2023-03-25,266
+"Unctus, Grand Metatect",1,4,4.0,2023-03-25,266
+"Abrade",5,5,6.2,2023-03-25,266
+"Adarkar Wastes",1,5,5.0,2023-03-25,266
+"Battlefield Forge",1,5,5.0,2023-03-25,266
+"Deserted Beach",4,5,5.0,2023-03-25,266
+"Disruption Protocol",4,5,5.0,2023-03-25,266
+"Fable of the Mirror-Breaker",8,5,6.5,2023-03-25,266
+"Fires of Victory",2,5,5.0,2023-03-25,266
+"Flame-Blessed Bolt",2,5,5.0,2023-03-25,266
+"Memory Deluge",3,5,5.0,2023-03-25,266
+"Mountain",3,5,7.0,2023-03-25,266
+"Saheeli, Filigree Master",1,5,5.0,2023-03-25,266
+"Sanctuary Warden",2,5,5.0,2023-03-25,266
+"Secrets of the Key",1,5,5.0,2023-03-25,266
+"Shivan Reef",2,5,5.0,2023-03-25,266
+"Spell Pierce",2,5,5.0,2023-03-25,266
+"Stormcarved Coast",4,5,5.0,2023-03-25,266
+"Sundown Pass",4,5,5.0,2023-03-25,266
+"Xander's Lounge",2,5,5.0,2023-03-25,266
+"Brushland",4,6,6.0,2023-03-25,266
+"Razorverge Thicket",4,6,6.0,2023-03-25,266
+"Overgrown Farmland",3,6,6.0,2023-03-25,266
+"Tyvar's Stand",4,6,6.0,2023-03-25,266
+"Annex Sentry",3,6,6.0,2023-03-25,266
+"Soul Partition",3,6,6.0,2023-03-25,266
+"Crawling Chorus",4,6,6.0,2023-03-25,266
+"Jawbone Duelist",4,6,6.0,2023-03-25,266
+"Skrelv's Hive",4,6,6.0,2023-03-25,266
+"Venerated Rotpriest",4,6,6.0,2023-03-25,266
+"Slaughter Singer",4,6,6.0,2023-03-25,266
+"The Seedcore",4,6,6.0,2023-03-25,266
+"Bloated Contaminator",4,6,6.0,2023-03-25,266
+"Boseiju, Who Endures",1,6,6.0,2023-03-25,266
+"Field of Ruin",4,7,7.0,2023-03-25,266
+"Demolition Field",4,7,7.0,2023-03-25,266
+"March of Otherworldly Light",2,7,7.0,2023-03-25,266
+"Intrepid Adversary",4,7,7.0,2023-03-25,266
+"Spirited Companion",2,7,7.0,2023-03-25,266
+"Destroy Evil",1,7,7.0,2023-03-25,266
+"Serra Paragon",3,7,7.0,2023-03-25,266
+"Blackcleave Cliffs",4,8,8.0,2023-03-25,266
+"Bloodtithe Harvester",4,8,8.0,2023-03-25,266
+"Cut Down",4,8,8.0,2023-03-25,266
+"Duress",1,8,8.0,2023-03-25,266
+"Gix's Command",1,8,8.0,2023-03-25,266
+"Graveyard Trespasser",4,8,8.0,2023-03-25,266
+"Haunted Ridge",4,8,8.0,2023-03-25,266
+"Invoke Despair",3,8,8.0,2023-03-25,266
+"Sokenzan, Crucible of Defiance",1,8,8.0,2023-03-25,266
+"Sulfurous Springs",4,8,8.0,2023-03-25,266
+"Swamp",9,8,8.0,2023-03-25,266

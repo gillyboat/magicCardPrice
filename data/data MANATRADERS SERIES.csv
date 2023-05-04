@@ -1,69 +1,69 @@
-name,number played,best placement,avg placement,date
-"Forest",5,1,1.0,2023-03-31
-"Plains",5,1,1.0,2023-03-31
-"Brushland",4,1,1.0,2023-03-31
-"Overgrown Farmland",2,1,1.0,2023-03-31
-"Hallowed Haunting",2,1,1.0,2023-03-31
-"Katilda, Dawnhart Martyr",4,1,1.0,2023-03-31
-"Wedding Announcement",2,1,1.0,2023-03-31
-"The Restoration of Eiganjo",4,1,1.0,2023-03-31
-"Spirited Companion",4,1,1.0,2023-03-31
-"Touch the Spirit Realm",1,1,1.0,2023-03-31
-"Commune with Spirits",4,1,1.0,2023-03-31
-"Generous Visitor",4,1,1.0,2023-03-31
-"Shigeki, Jukai Visionary",2,1,1.0,2023-03-31
-"Teachings of the Kirin",4,1,1.0,2023-03-31
-"Jukai Naturalist",4,1,1.0,2023-03-31
-"Ossification",4,1,1.0,2023-03-31
-"Razorverge Thicket",4,1,1.0,2023-03-31
-"Boseiju, Who Endures",1,1,1.0,2023-03-31
-"Swamp",14,2,5.142857142857143,2023-03-31
-"Shivan Reef",11,2,4.454545454545454,2023-03-31
-"Sulfurous Springs",15,2,5.066666666666666,2023-03-31
-"Go for the Throat",19,2,4.947368421052632,2023-03-31
-"Blackcleave Cliffs",24,2,5.166666666666667,2023-03-31
-"Abrade",11,2,4.545454545454546,2023-03-31
-"Graveyard Trespasser",2,2,2.0,2023-03-31
-"Haunted Ridge",22,2,5.181818181818182,2023-03-31
-"Shipwreck Marsh",11,2,4.363636363636363,2023-03-31
-"Bloodtithe Harvester",24,2,5.166666666666667,2023-03-31
-"Stormcarved Coast",5,2,4.6,2023-03-31
-"Invoke Despair",18,2,4.666666666666667,2023-03-31
-"Reckoner Bankbuster",16,2,4.875,2023-03-31
-"Corpse Appraiser",20,2,4.6,2023-03-31
-"Xander's Lounge",22,2,4.909090909090909,2023-03-31
-"Cut Down",18,2,5.555555555555555,2023-03-31
-"Sheoldred, the Apocalypse",15,2,5.133333333333334,2023-03-31
-"Bladecoil Serpent",1,2,2.0,2023-03-31
-"Darkslick Shores",16,2,5.0,2023-03-31
-"Brotherhood's End",7,2,5.285714285714286,2023-03-31
-"Fable of the Mirror-Breaker",24,2,5.166666666666667,2023-03-31
-"Underground River",3,3,5.0,2023-03-31
-"Make Disappear",11,3,5.181818181818182,2023-03-31
-"Ertai Resurrected",1,3,3.0,2023-03-31
-"Gix's Command",3,3,5.0,2023-03-31
-"Mountain",20,4,4.4,2023-03-31
-"Lightning Strike",4,4,4.0,2023-03-31
-"Monastery Swiftspear",4,4,4.0,2023-03-31
-"Bloodthirsty Adversary",4,4,4.0,2023-03-31
-"Play with Fire",4,4,4.0,2023-03-31
-"Kumano Faces Kakkazan",4,4,4.0,2023-03-31
-"Thundering Raiju",4,4,4.0,2023-03-31
-"Sokenzan, Crucible of Defiance",2,4,4.0,2023-03-31
-"Strangle",2,4,4.0,2023-03-31
-"Phoenix Chick",4,4,4.0,2023-03-31
-"Feldon, Ronom Excavator",3,4,4.0,2023-03-31
-"Mishra's Foundry",3,4,4.0,2023-03-31
-"Furnace Punisher",4,4,4.0,2023-03-31
-"Spell Pierce",1,5,5.0,2023-03-31
-"Negate",1,6,6.0,2023-03-31
-"Takenuma, Abandoned Mire",2,7,7.5,2023-03-31
-"Caves of Koilos",1,8,8.0,2023-03-31
-"Duress",2,8,8.0,2023-03-31
-"Sundown Pass",2,8,8.0,2023-03-31
-"Atsushi, the Blazing Sky",2,8,8.0,2023-03-31
-"Ziatora's Proving Ground",2,8,8.0,2023-03-31
-"The Cruelty of Gix",4,8,8.0,2023-03-31
-"Plaza of Heroes",3,8,8.0,2023-03-31
-"Atraxa, Grand Unifier",4,8,8.0,2023-03-31
-"Liliana of the Veil",1,8,8.0,2023-03-31
+name,number played,best placement,avg placement,date,size
+"Forest",5,1,1.0,2023-03-31,114
+"Plains",5,1,1.0,2023-03-31,114
+"Brushland",4,1,1.0,2023-03-31,114
+"Overgrown Farmland",2,1,1.0,2023-03-31,114
+"Hallowed Haunting",2,1,1.0,2023-03-31,114
+"Katilda, Dawnhart Martyr",4,1,1.0,2023-03-31,114
+"Wedding Announcement",2,1,1.0,2023-03-31,114
+"The Restoration of Eiganjo",4,1,1.0,2023-03-31,114
+"Spirited Companion",4,1,1.0,2023-03-31,114
+"Touch the Spirit Realm",1,1,1.0,2023-03-31,114
+"Commune with Spirits",4,1,1.0,2023-03-31,114
+"Generous Visitor",4,1,1.0,2023-03-31,114
+"Shigeki, Jukai Visionary",2,1,1.0,2023-03-31,114
+"Teachings of the Kirin",4,1,1.0,2023-03-31,114
+"Jukai Naturalist",4,1,1.0,2023-03-31,114
+"Ossification",4,1,1.0,2023-03-31,114
+"Razorverge Thicket",4,1,1.0,2023-03-31,114
+"Boseiju, Who Endures",1,1,1.0,2023-03-31,114
+"Swamp",14,2,5.142857142857143,2023-03-31,114
+"Shivan Reef",11,2,4.454545454545454,2023-03-31,114
+"Sulfurous Springs",15,2,5.066666666666666,2023-03-31,114
+"Go for the Throat",19,2,4.947368421052632,2023-03-31,114
+"Blackcleave Cliffs",24,2,5.166666666666667,2023-03-31,114
+"Abrade",11,2,4.545454545454546,2023-03-31,114
+"Graveyard Trespasser",2,2,2.0,2023-03-31,114
+"Haunted Ridge",22,2,5.181818181818182,2023-03-31,114
+"Shipwreck Marsh",11,2,4.363636363636363,2023-03-31,114
+"Bloodtithe Harvester",24,2,5.166666666666667,2023-03-31,114
+"Stormcarved Coast",5,2,4.6,2023-03-31,114
+"Invoke Despair",18,2,4.666666666666667,2023-03-31,114
+"Reckoner Bankbuster",16,2,4.875,2023-03-31,114
+"Corpse Appraiser",20,2,4.6,2023-03-31,114
+"Xander's Lounge",22,2,4.909090909090909,2023-03-31,114
+"Cut Down",18,2,5.555555555555555,2023-03-31,114
+"Sheoldred, the Apocalypse",15,2,5.133333333333334,2023-03-31,114
+"Bladecoil Serpent",1,2,2.0,2023-03-31,114
+"Darkslick Shores",16,2,5.0,2023-03-31,114
+"Brotherhood's End",7,2,5.285714285714286,2023-03-31,114
+"Fable of the Mirror-Breaker",24,2,5.166666666666667,2023-03-31,114
+"Underground River",3,3,5.0,2023-03-31,114
+"Make Disappear",11,3,5.181818181818182,2023-03-31,114
+"Ertai Resurrected",1,3,3.0,2023-03-31,114
+"Gix's Command",3,3,5.0,2023-03-31,114
+"Mountain",20,4,4.4,2023-03-31,114
+"Lightning Strike",4,4,4.0,2023-03-31,114
+"Monastery Swiftspear",4,4,4.0,2023-03-31,114
+"Bloodthirsty Adversary",4,4,4.0,2023-03-31,114
+"Play with Fire",4,4,4.0,2023-03-31,114
+"Kumano Faces Kakkazan",4,4,4.0,2023-03-31,114
+"Thundering Raiju",4,4,4.0,2023-03-31,114
+"Sokenzan, Crucible of Defiance",2,4,4.0,2023-03-31,114
+"Strangle",2,4,4.0,2023-03-31,114
+"Phoenix Chick",4,4,4.0,2023-03-31,114
+"Feldon, Ronom Excavator",3,4,4.0,2023-03-31,114
+"Mishra's Foundry",3,4,4.0,2023-03-31,114
+"Furnace Punisher",4,4,4.0,2023-03-31,114
+"Spell Pierce",1,5,5.0,2023-03-31,114
+"Negate",1,6,6.0,2023-03-31,114
+"Takenuma, Abandoned Mire",2,7,7.5,2023-03-31,114
+"Caves of Koilos",1,8,8.0,2023-03-31,114
+"Duress",2,8,8.0,2023-03-31,114
+"Sundown Pass",2,8,8.0,2023-03-31,114
+"Atsushi, the Blazing Sky",2,8,8.0,2023-03-31,114
+"Ziatora's Proving Ground",2,8,8.0,2023-03-31,114
+"The Cruelty of Gix",4,8,8.0,2023-03-31,114
+"Plaza of Heroes",3,8,8.0,2023-03-31,114
+"Atraxa, Grand Unifier",4,8,8.0,2023-03-31,114
+"Liliana of the Veil",1,8,8.0,2023-03-31,114
