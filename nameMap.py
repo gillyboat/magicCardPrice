@@ -24,10 +24,9 @@ for folder in os.listdir(directory):
         print(filename)
         file = open(f)
         data = json.load(file)
-        try:
-            nameMap.append([data[1]["title"],filename])
-        except Exception as err:
-            print(f"No Data? {err=}, {type(err)=}")
+        if len(data) > 0:
+            name = data[1]["title"]
+            nameMap.append(['"'+name+'"',filename])
             
 
     
