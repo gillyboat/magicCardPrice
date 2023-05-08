@@ -49,3 +49,4 @@ print("CARDLIST:", len(cardList))
 
 #print(checkedNames)
 #print(cardList)
+print(jsons)
