@@ -14,13 +14,13 @@ with open(f, 'r') as file:
     print("FILE", file)
     json_data = file.read()
     cardList = json_data
-    
-print(cardList)
 
 data = {}
 jsons = []
 
 import pandas as pd
+
+# Parse the CSV
 
 df = pd.read_csv("nameMap.csv")
 print(df.head())
@@ -30,5 +30,6 @@ for index, row in df.iterrows():
         data[row["ID"]] = row['name']
         jsons.append(row["ID"])
 
-print(data)
-print(jsons)
+# Cardlist stores list of cards we care about
+# Data JSON stores json:cardname pairs for cards we care about
+# Jsons stores a list of all the json files we care about
