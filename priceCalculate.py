@@ -1,11 +1,14 @@
 import json
 import os
+from datetime import datetime
 
 sets = ['BRO', 'DMU', 'MID', 'NEO', 'ONE', 'SNC', 'VOW']
 
 n_check = 0
 
 jsons_to_check = []
+
+dates_cards = {}
 
 with open('jsonArray') as f:
     json_data = f.read()
@@ -38,9 +41,13 @@ for set in sets:
                         purchase_price = sale['purchasePrice']
                         shipping_price = sale['shippingPrice']
                         quantity = sale['quantity']
+                        saleDate = datetime.fromisoformat(sale["orderDate"])
+                        
+                        if not dates_cards['2023-' + saleDate.month + '-' + saleDate.day]:
+                            dates_cards['2023-' + saleDate.month + '-' + saleDate.day] = 0
                     
                         # Add the purchase price, shipping price, and quantity to the total
-                        total_purchase_price += purchase_price * quantity
+                        dates_cards['2023-' + saleDate.month + '-' + saleDate.day] += purchase_price * quantity
                         total_shipping_price += shipping_price * quantity
                         total_quantity += quantity
         except:
