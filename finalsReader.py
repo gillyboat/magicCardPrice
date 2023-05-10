@@ -48,7 +48,7 @@ for card in json_cardList:
             with open(os.path.join('data/Price History/' + set + '/', card_json_map[card])) as f:
                 sales = json.load(f)
                 for sale in sales:
-                    if(sale["condition"] == "Near Mint" and sale["variant"] == "Foil"):
+                    if(sale["condition"] == "Near Mint" and sale["variant"] == "Foil" and sale['orderDate'][0:4] == '2023'):
                         
                         saleDate = {'month': sale['orderDate'][5:7], 'day': sale['orderDate'][8:10]}
                         
@@ -58,9 +58,10 @@ for card in json_cardList:
                         if not '2023-' + saleDate['month'] + '-' + saleDate['day'] in dailyCardPriceData[card]:
                             dailyCardPriceData[card]['2023-' + saleDate['month'] + '-' + saleDate['day']] = {'totalPrice':0, 'totalShipping':0, 'totalQuantity':0}
                         
-                        dailyCardPriceData[card]['2023-' + saleDate['month'] + '-' + saleDate['day']]['totalPrice'] += sale['purchasePrice']
+                        dailyCardPriceData[card]['2023-' + saleDate['month'] + '-' + saleDate['day']]['totalPrice'] += sale['purchasePrice'] * sale['quantity']
                         dailyCardPriceData[card]['2023-' + saleDate['month'] + '-' + saleDate['day']]['totalShipping'] += sale['shippingPrice']
                         dailyCardPriceData[card]['2023-' + saleDate['month'] + '-' + saleDate['day']]['totalQuantity'] += sale['quantity']
+                        
 
 priceChanges = {}
 
@@ -71,4 +72,4 @@ for card in dailyCardPriceData:
         dailyCardPriceData[card][date]['averagePrice'] = round((dailyCardPriceData[card][date]['totalPrice'] + dailyCardPriceData[card][date]['totalShipping']) / dailyCardPriceData[card][date]['totalQuantity'], 2)
     for i in range(1, len(dates)):
         q = 0
-    print(card, dailyCardPriceData[card][date]['averagePrice'])
+    print(card, json_cardList[card], dailyCardPriceData[card][date]['averagePrice'])
