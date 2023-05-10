@@ -6,6 +6,8 @@ from datetime import datetime
 
 csv_file = os.path.join('data/data FINALS BEIJING.csv')
 
+countShipping = False
+
 sets = ['BRO', 'DMU', 'MID', 'NEO', 'ONE', 'SNC', 'VOW']
 
 card_json_map = {}
@@ -69,7 +71,9 @@ for card in dailyCardPriceData:
     dates = []
     for date in dailyCardPriceData[card]:
         dates.append(date)
-        dailyCardPriceData[card][date]['averagePrice'] = round((dailyCardPriceData[card][date]['totalPrice'] + dailyCardPriceData[card][date]['totalShipping']) / dailyCardPriceData[card][date]['totalQuantity'], 2)
+        if(countShipping):
+            dailyCardPriceData[card][date]['averagePrice'] = round((dailyCardPriceData[card][date]['totalPrice'] + dailyCardPriceData[card][date]['totalShipping']) / dailyCardPriceData[card][date]['totalQuantity'], 2)
+        elif(not countShipping):
+            dailyCardPriceData[card][date]['averagePrice'] = round((dailyCardPriceData[card][date]['totalPrice']) / dailyCardPriceData[card][date]['totalQuantity'], 2)
     for i in range(1, len(dates)):
-        q = 0
-    print(card, json_cardList[card], dailyCardPriceData[card][date]['averagePrice'])
+        dailyCardPriceData[card][dates[i]]['priceChange'] = (dailyCardPriceData[card][dates[i]]['averagePrice'] - dailyCardPriceData[card][dates[i-1]]['averagePrice']) / dailyCardPriceData[card][dates[i-1]]['averagePrice']
